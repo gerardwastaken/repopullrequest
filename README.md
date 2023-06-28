@@ -1,2 +1,1 @@
-# repopullrequest
-repo de clase 4
+Estoy aprendiendo pull requests
